@@ -27,8 +27,3 @@ Authentication ensures that only authorized users can perform operations.
 **Database:** MySQL
 
 
-#### Ready to manage your tasks? Follow up 'Installation' section.
-
-## Installation ⚙️
-#### Project Setup tutorial ➡️ https://www.loom.com/share/e95d25ae2ccc48d797b8f31cb49ccd47?sid=1c5302b3-9805-410a-959b-b876cec24f38
-
