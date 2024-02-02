@@ -32,25 +32,3 @@ Authentication ensures that only authorized users can perform operations.
 ## Installation ⚙️
 #### Project Setup tutorial ➡️ https://www.loom.com/share/e95d25ae2ccc48d797b8f31cb49ccd47?sid=1c5302b3-9805-410a-959b-b876cec24f38
 
-#### Screenshots
-Updating Soon...
-
-
-
-## Contact
-
-For any inquiries or feedback, feel free to reach out:
-
-- **LinkedIn:** [Hemant Dwivedi](https://www.linkedin.com/in/hemant-dwivedi-developer/)
-- **Twitter:** [Hemant](https://twitter.com/ordinaryhemant)
-
-## Acknowledgments
-
-This project was made possible with the help of the following technologies and frameworks:
-
-- [Spring Boot](https://spring.io/projects/spring-boot): A powerful and flexible framework for building Java-based enterprise applications.
-- [ReactJS](https://reactjs.org/): A JavaScript library for building user interfaces, making the project's frontend dynamic and responsive.
-- [ViteJS](https://vitejs.dev/): A next-generation frontend build tool that significantly speeds up development for ReactJS applications.
-- [Bootstrap](https://getbootstrap.com/): A popular CSS framework that provides pre-designed components for a sleek and responsive user interface.
-
-A big thank you to the developers and communities behind these tools for their contributions to the world of software development!
